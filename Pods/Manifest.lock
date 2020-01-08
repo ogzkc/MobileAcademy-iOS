@@ -1,0 +1,79 @@
+PODS:
+  - CRToast (0.0.9)
+  - CustomIOSAlertView (0.9.3)
+  - DLRadioButton (1.4.8)
+  - Google/Core (2.0.3):
+    - GoogleInterchangeUtilities (~> 1.0)
+    - GoogleNetworkingUtilities (~> 1.0)
+    - GoogleSymbolUtilities (~> 1.0)
+    - GoogleUtilities (~> 1.1)
+  - Google/SignIn (2.0.3):
+    - Google/Core
+    - GoogleSignIn (~> 3.0)
+  - GoogleAppUtilities (1.1.0):
+    - GoogleSymbolUtilities (~> 1.0)
+  - GoogleAuthUtilities (2.0.0):
+    - GoogleNetworkingUtilities (~> 1.0)
+    - GoogleSymbolUtilities (~> 1.0)
+  - GoogleInterchangeUtilities (1.2.0):
+    - GoogleSymbolUtilities (~> 1.0)
+  - GoogleNetworkingUtilities (1.2.0):
+    - GoogleSymbolUtilities (~> 1.0)
+  - GoogleSignIn (3.0.0):
+    - GoogleAppUtilities (~> 1.0)
+    - GoogleAuthUtilities (~> 2.0)
+    - GoogleNetworkingUtilities (~> 1.0)
+    - GoogleUtilities (~> 1.0)
+  - GoogleSymbolUtilities (1.1.0)
+  - GoogleUtilities (1.2.0):
+    - GoogleSymbolUtilities (~> 1.0)
+  - IQKeyboardManager (4.0.1)
+  - MaterialKit (0.4)
+  - MBProgressHUD (0.9.2)
+  - MMMaterialDesignSpinner (0.2.3)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - SwiftyUserDefaults (2.2.0)
+  - TWRDownloadManager (1.1.1)
+  - UIImageView-Letters (1.1.4)
+  - VAProgressCircle (0.0.9)
+
+DEPENDENCIES:
+  - CRToast
+  - CustomIOSAlertView
+  - DLRadioButton (~> 1.4)
+  - Google/SignIn
+  - IQKeyboardManager
+  - MaterialKit (~> 0.4)
+  - MBProgressHUD (~> 0.9.2)
+  - MMMaterialDesignSpinner
+  - SDWebImage (~> 3.7)
+  - SwiftyUserDefaults
+  - TWRDownloadManager
+  - UIImageView-Letters
+  - VAProgressCircle
+
+SPEC CHECKSUMS:
+  CRToast: 5a78c22b921c5ed3487488af605bc403a9c92fed
+  CustomIOSAlertView: 94d2401e34fcfb0ac0134679d6947f5e251b0446
+  DLRadioButton: 8fe4865b3ea8a5236e1d114dd283dd0884d3dc46
+  Google: 61379f0072bc561a7e174d23a6cbe41bd6d8599c
+  GoogleAppUtilities: 974598e8ed618c74ead33541d9caffbc3d144266
+  GoogleAuthUtilities: 79e4143c77a08081a480b08df27a066cc8944f43
+  GoogleInterchangeUtilities: 427382e42d8a340038bec37c6fdfd316e14b5fa2
+  GoogleNetworkingUtilities: ec1e9911aca811eb18b7144394fee6168b607785
+  GoogleSignIn: 3d571172b8603be39dcb1705d8217146bb76fe62
+  GoogleSymbolUtilities: eb3965ea12710569c7b80db198a39e39b18613f7
+  GoogleUtilities: 85f8ad6b251544286a97163133d042ec95f889c5
+  IQKeyboardManager: 0c11a0cb402a621f7aa1aff506f60ab6d2388969
+  MaterialKit: 2e5267bcf410b82793f2b92d2111f8ae4ed2c3f2
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MMMaterialDesignSpinner: 55c80b454f7928d0ed789cc3c456fa06bd6a2f16
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  SwiftyUserDefaults: e7c8197a9d4068702e7f2406a968cae413b8de27
+  TWRDownloadManager: 34193d7d1ab6e6b4243d74fa4f686cc2ed5ef40f
+  UIImageView-Letters: f62db28076797adf3560ab7410647dc6899b9eef
+  VAProgressCircle: 7b58f21762a617ed764cf49e1251ab4643157e02
+
+COCOAPODS: 0.38.2

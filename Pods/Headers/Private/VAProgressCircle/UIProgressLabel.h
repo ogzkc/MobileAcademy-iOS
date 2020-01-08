@@ -1,0 +1,1 @@
+../../../VAProgressCircle/Classes/UIProgressLabel.h
